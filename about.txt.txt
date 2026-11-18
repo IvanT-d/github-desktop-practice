@@ -13,8 +13,5 @@ Basic CSS
 Basic C++
 
 Goals:
-become a IT professional
-improve my programming Skills
-
-Favorite Subject:
-Platech
+Become an IT professional
+Improve my programming Skills
