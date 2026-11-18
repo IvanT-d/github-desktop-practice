@@ -6,3 +6,8 @@ Hobbies:
 Playing Online games
 Doing Sports
 studying
+
+Skills:
+Basic HTML
+Basic CSS
+Basic C++
