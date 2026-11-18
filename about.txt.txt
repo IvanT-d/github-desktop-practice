@@ -15,3 +15,6 @@ Basic C++
 Goals:
 Become an IT professional
 Improve my programming Skills
+
+Favorite Subject:
+Platech
