@@ -11,3 +11,7 @@ Skills:
 Basic HTML
 Basic CSS
 Basic C++
+
+Goals:
+become a IT professional
+improve my programming Skills
